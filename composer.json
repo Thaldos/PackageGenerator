@@ -1,9 +1,9 @@
 {
-    "name": "thaldos/packagegenerator",
+    "name": "wsdltophp/packagegenerator",
     "description": "Generate hierarchical PHP classes based on a WSDL",
     "type": "library",
     "keywords" : ["soap","wsdl","php","generator"],
-    "homepage" : "https://github.com/Thaldos/PackageGenerator",
+    "homepage" : "https://github.com/wsdltophp/PackageGenerator",
     "license" : "MIT",
     "authors" : [
         {
